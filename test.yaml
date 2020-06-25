@@ -4,7 +4,6 @@ metadata:
   name: artist-lookup
   description: Artist Lookup
   labels:
-    accelerate: yes
     jiraboard: CG
 spec:
   type: service
