@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: acronymbot
+  description: Acronymbot
+  labels:
+    accelerate:
+      jiraboard: CG
+      statuspageComponent: ATG
+spec:
+  type: service
+  lifecycle: experimental
+  owner: artists@example.com
