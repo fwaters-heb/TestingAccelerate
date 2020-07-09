@@ -4,9 +4,8 @@ metadata:
   name: artist-lookup
   description: Artist Lookup
   labels:
-    accelerate:
-      jiraboard: CG
-      statuspageComponent: FAST
+    jiraboard: CG
+    statuspageComponent: FAST
 spec:
   type: service
   lifecycle: experimental

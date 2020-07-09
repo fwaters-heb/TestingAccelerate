@@ -4,9 +4,8 @@ metadata:
   name: acronymbot
   description: Acronymbot
   labels:
-    accelerate:
-      jiraboard: CG
-      statuspageComponent: ATG
+    jiraboard: CG
+    statuspageComponent: ATG
 spec:
   type: service
   lifecycle: experimental
